@@ -1,2 +1,3 @@
-print("Helloe, welcom to git")
+print("Hello, welcom  git")
 print("Add second line")
+print("Add third line")
